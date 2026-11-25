@@ -1,0 +1,8 @@
+{
+  "name": "CyberGameStore",
+  "description": "Цифровой каталог игр и подписок Xbox Game Pass и PlayStation Plus с подробными гайдами, сравнениями регионов и обзорами.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
